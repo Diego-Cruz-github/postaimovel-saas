@@ -1,4 +1,5 @@
 # PostAImovel - Real Estate SaaS
+> **English** | [Português (BR)](README.pt-BR.md)
 
 SaaS for realtors: listing posts, CRM, client portal and AI assistance.
 
